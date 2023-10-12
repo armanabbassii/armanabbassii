@@ -9,6 +9,6 @@
 
 💬 talk me about **QA, cypress, playwright,** or anything related to testing and automation.
 
-Feel free to explore my repositories and let's connect to build something amazing together! 💻✨
+let's connect to build something amazing together! 💻✨
 
 
