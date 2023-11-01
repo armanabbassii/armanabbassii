@@ -3,10 +3,10 @@
 
 ## About me
 
-🔭 I’m currently working on a **CMS project** with exciting testing challenges.
+🔭 I’m currently working on a **CMS project** with exciting automation testing challenges.
 
 🌱 I'm super excited about learning **Cypress and Playwright frameworks** to make my testing skills even better.
 
-💬 talk me about **QA, cypress, playwright,** or anything related to testing and automation.
+💬 talk me about **QA, cypress, playwright,** or anything related to automation and testing.
 
 let's connect to build something amazing together! 💻✨
