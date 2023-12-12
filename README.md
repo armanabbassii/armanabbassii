@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Arman Abbasi</h1>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E22AQGoRVjlYSPWCg/feedshare-shrink_2048_1536/0/1594642695270?e=1701907200&v=beta&t=5QLj39TlUAv3RDbYjNEu2gxEVrwQ4wgOf95ECBnZLVU">
+<img align="right" alt="Coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/QA-Automation-EngineerMW.gif">
 
 ## About me
 
