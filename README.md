@@ -1,8 +1,13 @@
-<h1 align="center">Hey there! I'm Arman</h1>
-<img align="right" alt="Coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/QA-Automation-EngineerMW.gif">
+### Hi there 👋 My name's Arman Abbasi
 
-🌱 I'm super excited about learning **Cypress and Playwright frameworks** to make my testing skills even better.
+ 🔹 Java Developer 🔹 
 
-💬 talk me about **CYPRESS, PLAYWRIGHT, QA** or anything related to automation and testing.
+### 🛠 &nbsp;Tech Stack (mostly)
 
-let's connect to build something amazing together! 💻✨
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+
+## Find Me Around The Web 🌍
+
+- 🔗 [Linkedin](https://www.linkedin.com/in/armanabbasi/)
