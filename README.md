@@ -1,6 +1,7 @@
 ### Hi there 👋 My name's Arman Abbasi
 
-🔹 Junior Java Developer 🔹
+🔹 Java Developer 🔹
+
 🔹 EX: Test Engineer 🔹
 
 ### 🛠 &nbsp;Tech Stack (mostly)
