@@ -1,6 +1,6 @@
 ### Hi there 👋 My name's Arman Abbasi
 
-🔹 Java Developer 🔹
+🔹 Backend Developer 🔹
 
 🔹 EX: Test Engineer 🔹
 
