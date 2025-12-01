@@ -3,7 +3,6 @@
 🔹 Junior Java Developer 🔹
 🔹 EX: Test Engineer 🔹
 
-
 ### 🛠 &nbsp;Tech Stack (mostly)
 
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
